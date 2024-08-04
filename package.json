@@ -1,0 +1,24 @@
+{
+  "name": "my_portofolio.github.io",
+  "version": "1.0.0",
+  "description": "**WEB INI MENGGUNAKAN BAHASA HTML CSS DAN JAVASCRIPT DAN DIBANTU DENGAN FLEXBOX**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuf601/my_portofolio.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusuf601/my_portofolio.github.io/issues"
+  },
+  "homepage": "https://github.com/yusuf601/my_portofolio.github.io#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3"
+  }
+}
