@@ -1,4 +1,6 @@
 # Portofolio Web Yusuf601
+![web](images/web.png)
+
 
 **Selamat datang di portofolio web pribadi saya!**
 
